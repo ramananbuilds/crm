@@ -1,11 +1,11 @@
 app_name = "crm"
-app_title = "Frappe CRM"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_title = "Studio Lite CRM"
+app_publisher = "Studio Lite LLP"
 app_description = "Kick-ass Open Source CRM"
-app_email = "shariq@frappe.io"
+app_email = "studiolitein@gmail.com"
 app_license = "AGPLv3"
-app_icon_url = "/assets/crm/images/logo.svg"
-app_icon_title = "CRM"
+app_icon_url = "/assets/business_suite_branding/images/logo.svg"
+app_icon_title = "Studio Lite CRM"
 app_icon_route = "/crm"
 
 # Apps
@@ -15,8 +15,8 @@ app_icon_route = "/crm"
 add_to_apps_screen = [
 	{
 		"name": "crm",
-		"logo": "/assets/crm/images/logo.svg",
-		"title": "CRM",
+		"logo": "/assets/business_suite_branding/images/logo.svg",
+		"title": "Studio Lite CRM",
 		"route": "/crm",
 		"has_permission": "crm.api.check_app_permission",
 	}
