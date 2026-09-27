@@ -15,7 +15,7 @@ app_icon_route = "/crm"
 add_to_apps_screen = [
 	{
 		"name": "crm",
-		"logo": "/assets/business_suite_branding/images/logo.svg",
+		"logo": "/assets/business_suite_branding/images/logo.svg?v3",
 		"title": "Studio Lite CRM",
 		"route": "/crm",
 		"has_permission": "crm.api.check_app_permission",
